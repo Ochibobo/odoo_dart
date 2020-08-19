@@ -1,0 +1,7 @@
+user:
+  email: admin-email
+  password: admin-password
+
+server:
+  host: server-host-url
+  database: database
